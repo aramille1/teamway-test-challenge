@@ -1,0 +1,41 @@
+[
+  {
+    "question": "You’ve been sitting in the doctor’s waiting room for more than 25 minutes. You:",
+    "answers": [
+      {
+        "text": "Bubble with inner anger, but keep quiet",
+        "score": "1"
+      },
+      {
+        "text": "Explain to other equally impatient people in the room that the doctor is always running late",
+        "score": "-1"
+      }
+    ]
+  },
+  {
+    "question": "You’re having an animated discussion with a colleague regarding a project that you’re in charge of. You:",
+    "answers": [
+      {
+        "text": "Don’t dare contradict them",
+        "score": "1"
+      },
+      {
+        "text": "Defend your own point of view, tooth and nail",
+        "score": "-1"
+      }
+    ]
+  },
+  {
+    "question": "You are taking part in a guided tour of a museum. You:",
+    "answers": [
+      {
+        "text": "Are a bit too far towards the back so don’t really hear what the guide is saying",
+        "score": "1"
+      },
+      {
+        "text": "Are right up the front, adding your own comments in a loud voice",
+        "score": "-1"
+      }
+    ]
+  }
+]
